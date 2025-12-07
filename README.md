@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Nalbert!
 
-🎓 **Estudante de Sistema de Informação** na **UNEX — Universidade de Feira de Santana (BA)**
+🎓 **Estudante de Sistema de Informação** na **UNEX — Universidade de Feira de Santana**
 📌 Apaixonado por tecnologia, dados e desenvolvimento de soluções úteis e criativas.
 
 ---
@@ -8,7 +8,7 @@
 ## 🚀 Sobre mim
 
 * 📊 Buscando carreira como **Analista de Dados**, **Cientista de Dados** ou **Consultor de Dados**
-* 🎮 Sonho em trabalhar na **Mojang** e evoluir para áreas de dados dentro da **Microsoft**
+
 * 💡 Curto criar apps simples e explorar ferramentas de desenvolvimento
 * 🧠 Interesses: dados, jogos, produção e automação
 
